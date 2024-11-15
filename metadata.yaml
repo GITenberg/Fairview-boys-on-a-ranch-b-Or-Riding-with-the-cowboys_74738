@@ -8,12 +8,17 @@ contributor:
     deathdate: 1957
     gutenberg_agent_id: '5821'
     url: http://www.gutenberg.org/2009/agents/5821
+covers:
+- cover_type: archival
+  image_path: 74738-h/images/cover.jpg
 creator:
   author:
     agent_name: Gordon, Frederick
     gutenberg_agent_id: '46538'
     url: http://www.gutenberg.org/2009/agents/46538
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74738#Fairview-boys-on-a-ranch-b-Or-Riding-with-the-cowboys
 gutenberg_issued: '2024-11-14'
 gutenberg_type: Text
 identifiers:
